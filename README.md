@@ -83,3 +83,21 @@ https://github.com/VuVietLong1207/Quan_li_tuyen_sinh_he_dai_hoc.git
 Truy cập project qua đường dẫn:
 👉 http://localhost/admission_management/
 ```
+
+
+### 4.3. Setup database
+Mở XAMPP Control Panel, Start Apache và MySQL
+
+
+### 4.4. Setup tham số kết nối
+Mở file config.php (hoặc .env) trong project, chỉnh thông tin DB:
+
+
+### 4.5. Chạy hệ thống
+Mở XAMPP Control Panel → Start Apache và MySQL
+
+Truy cập hệ thống:
+👉 http://localhost/index.php
+
+
+### 4.6. Đăng nhập lần đầu
