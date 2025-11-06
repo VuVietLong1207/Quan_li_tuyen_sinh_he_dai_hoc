@@ -59,3 +59,9 @@ Thay vì dựa vào các phương pháp thủ công, các biểu mẫu giấy t�
 
 ### Trang chủ
 <img width="700" height="700" alt="image" src="images/Trang chủ.png"/>
+
+
+
+## ⚙️ 4. Cài đặt
+
+### 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
