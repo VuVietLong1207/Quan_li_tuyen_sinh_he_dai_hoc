@@ -20,3 +20,24 @@
 ## 📖 1. Giới thiệu
 Hệ thống Quản lý Tuyển sinh Hệ Đại học được xây dựng nhằm hỗ trợ toàn bộ quy trình tiếp nhận, xử lý hồ sơ, và quản lý kết quả xét tuyển của thí sinh.
 Thay vì dựa vào các phương pháp thủ công, các biểu mẫu giấy tờ phức tạp, hay hệ thống dữ liệu phân tán dễ xảy ra sai sót, ứng dụng web này mang đến một giải pháp số hóa, tập trung, hiệu quả và minh bạch. 🚀 Nó giúp tự động hóa nhiều tác vụ lặp đi lặp lại, từ đó giảm thiểu đáng kể khối lượng công việc cho đội ngũ cán bộ tuyển sinh, đồng thời cung cấp trải nghiệm đăng ký thuận tiện cho thí sinh.
+
+## 🔧 2. Các công nghệ được sử dụng
+<div align="center">
+
+### Hệ điều hành
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)a
+
+### Công nghệ chính
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+### Web Server & Database
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
