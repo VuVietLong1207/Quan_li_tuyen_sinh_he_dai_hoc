@@ -75,3 +75,11 @@ Thay vì dựa vào các phương pháp thủ công, các biểu mẫu giấy t�
   - MySQL  
   - Prettier – Code Formatter  
 ### 4.2. Tải project
+Clone project về thư mục `htdocs` của XAMPP (ví dụ ổ C):
+
+```bash
+cd F:\xampp\htdocs
+https://github.com/tyanzuq2811/BTL_Quan_ly_doan_vien.git
+Truy cập project qua đường dẫn:
+👉 http://localhost/authentication_login.
+```
