@@ -98,13 +98,13 @@ CREATE DATABASE IF NOT EXISTS admission_managerment
 
 ### 4.4. Setup tham số kết nối
 Mở file config.php (hoặc .env) trong project, chỉnh thông tin DB:
-'''bash
+```bash
 <?php
 class Database {
     private $host = "localhost";
-    private $db_name = "admission_management"; // hoặc "admission management"
-    private $username = "LongVu";
-    private $password = "@Long2ka51207";
+    private $db_name = "admission_management";
+    private $username = "root";
+    private $password = "";
     public $conn;
 
     public function getConnection() {
@@ -120,7 +120,7 @@ class Database {
     }
 }
 ?>
-'''
+```
 
 ### 4.5. Chạy hệ thống
 Mở XAMPP Control Panel → Start Apache và MySQL
