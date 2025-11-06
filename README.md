@@ -52,6 +52,6 @@ Thay vì dựa vào các phương pháp thủ công, các biểu mẫu giấy t�
 ### Trang đăng nhập
 <img width="700" height="700" alt="image" src="images/Login.png"/>
 ### Trang đăng kí
-<img width="700" height="700" alt="image" src="images/Register.png"/>
+<img width="700" height="1400" alt="image" src="images/Register.png"/>
 ### Trang chủ
 <img width="700" height="700" alt="image" src="images/Trang chủ.png"/>
