@@ -50,5 +50,5 @@ Thay vì dựa vào các phương pháp thủ công, các biểu mẫu giấy t�
 
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
-<img width="1500" height="1000" alt="image" src="images/Login.png" />
+<img width="1000" height="700" alt="image" src="images/Login.png" />
 
