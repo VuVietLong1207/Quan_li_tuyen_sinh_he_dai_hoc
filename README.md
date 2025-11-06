@@ -42,6 +42,9 @@ Thay vì dựa vào các phương pháp thủ công, các biểu mẫu giấy t�
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/)
 
+### Database Management Tools
+[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/downloads/workbench/)
 </div>
+
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
