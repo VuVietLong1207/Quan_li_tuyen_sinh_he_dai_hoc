@@ -65,3 +65,13 @@ Thay vì dựa vào các phương pháp thủ công, các biểu mẫu giấy t�
 ## ⚙️ 4. Cài đặt
 
 ### 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
+
+- Tải và cài đặt **XAMPP**  
+  👉 https://www.apachefriends.org/download.html  
+  (Khuyến nghị bản XAMPP với PHP 8.x)
+
+- Cài đặt **Visual Studio Code** và các extension:
+  - PHP Intelephense  
+  - MySQL  
+  - Prettier – Code Formatter  
+### 4.2. Tải project
