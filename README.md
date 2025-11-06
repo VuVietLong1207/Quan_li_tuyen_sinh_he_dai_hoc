@@ -130,3 +130,10 @@ Truy cập hệ thống:
 
 
 ### 4.6. Đăng nhập lần đầu
+Hệ thống cấp tài khoản cho Admin
+
+Sau khi đăng nhập Admin có thể:
+
+Thêm hồ sơ sinh viên
+
+
