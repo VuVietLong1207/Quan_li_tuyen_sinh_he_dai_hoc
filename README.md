@@ -88,10 +88,39 @@ Truy cập project qua đường dẫn:
 ### 4.3. Setup database
 Mở XAMPP Control Panel, Start Apache và MySQL
 
+Truy cập MySQL WorkBench
+Tạo database:
+```bash
+CREATE DATABASE IF NOT EXISTS admission_managerment
+   CHARACTER SET utf8mb4
+   COLLATE utf8mb4_unicode_ci;
+```
 
 ### 4.4. Setup tham số kết nối
 Mở file config.php (hoặc .env) trong project, chỉnh thông tin DB:
+'''bash
+<?php
+class Database {
+    private $host = "localhost";
+    private $db_name = "admission_management"; // hoặc "admission management"
+    private $username = "LongVu";
+    private $password = "@Long2ka51207";
+    public $conn;
 
+    public function getConnection() {
+        $this->conn = null;
+        try {
+            $this->conn = new PDO("mysql:host=" . $this->host . ";dbname=" . $this->db_name, $this->username, $this->password);
+            $this->conn->exec("set names utf8");
+            $this->conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        } catch(PDOException $exception) {
+            echo "Connection error: " . $exception->getMessage();
+        }
+        return $this->conn;
+    }
+}
+?>
+'''
 
 ### 4.5. Chạy hệ thống
 Mở XAMPP Control Panel → Start Apache và MySQL
