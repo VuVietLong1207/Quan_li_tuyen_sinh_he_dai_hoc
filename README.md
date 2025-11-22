@@ -50,18 +50,27 @@ Thay vì dựa vào các phương pháp thủ công, các biểu mẫu giấy t�
 
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
-<img width="700" height="700" alt="image" src="images/Login.png"/>
+<img width="700" height="700" alt="image" src="images/Đăng nhập.png"/>
 
 
 ### Trang đăng kí
-<img width="700" height="1400" alt="image" src="images/Register.png"/>
+<img width="700" height="1400" alt="image" src="images/Đăng kí.png"/>
 
 
 ### Trang chủ
 <img width="700" height="700" alt="image" src="images/Trang chủ.png"/>
 
 
+### Ngành đào tạo
+<img width="700" height="700" alt="image" src="images/Ngành đào tạo.png"/>
 
+
+### Tin tức
+<img width="700" height="700" alt="image" src="images/Tin tức.png"/>
+
+
+### Tuyển sinh
+<img width="700" height="700" alt="image" src="images/Tuyển sinh.png"/>
 ## ⚙️ 4. Cài đặt
 
 ### 4.1. Cài đặt công cụ, môi trường và các thư viện cần thiết
@@ -133,6 +142,8 @@ Truy cập hệ thống:
 Hệ thống cấp tài khoản cho Admin
 
 Sau khi đăng nhập Admin có thể:
+
+
 
 Thêm hồ sơ sinh viên
 
